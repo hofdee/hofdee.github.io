@@ -1,13 +1,16 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2018-09-21'
+title: 'Systems and Networks Administrator'
+company: 'Bikita Minerals'
+location: 'Bikita, ZW'
+range: 'August - Semptember 2019'
+url: 'https://www.bikitaminerals.com'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+Expedited software subscription payments and upgrades like Belina and Sage Pastel.
+- Automated backups and redundancy.
+- Participated in project meetings, with technical staff members and external members.
+- Improved and expedited the acquisition of computers, officeware, consumables and software
+purchases.
+- Collaborated on a successful project to upgrade mine network coverage by adding a base
+station on a nearby hill
