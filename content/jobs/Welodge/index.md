@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
+date: '2020-06-21'
 title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+company: 'Welodge'
+location: 'Harare, ZW'
+range: '2021'
+url: 'https://welodge.co.zw/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

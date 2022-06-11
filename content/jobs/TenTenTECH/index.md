@@ -1,10 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2022-06-03'
+title: 'Development Operations'
+company: '1010Tech.io'
+location: 'Harare, ZW'
+range: 'June 2022 - present'
+url: 'https://1010tech.io/'
 ---
 
 - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS

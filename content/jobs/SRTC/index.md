@@ -1,10 +1,10 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2021-04-01'
+title: 'IT Engineer'
+company: 'SRTC'
+location: 'Harare, ZW'
+range: 'April 2021 - June 2022'
+url: 'https://www.srtc.com'
 ---
 
 - Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern

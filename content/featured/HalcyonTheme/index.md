@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'KG Mobile Whatsapp chatbot store'
 cover: './halcyon.png'
 github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://www.kgmobile.flixtechs.co.zw/'
 tech:
   - VS Code
   - Sublime Text
   - Atom
-  - iTerm2
-  - Hyper
+  - Javascript
+  - Baileys repo
 showInProjects: true
 ---
 

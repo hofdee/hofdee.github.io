@@ -1,10 +1,10 @@
 ---
-date: '2021-05-01'
-title: 'GT'
-company: 'SRTC'
-location: 'Harare, ZW'
-range: 'May 2021 - Present'
-url: 'https://www.srtc.co.zw/'
+date: '2020-02-01'
+title: 'Lead Developer'
+company: 'GlobalHUntersTech'
+location: 'Masvingo, ZW'
+range: '2020'
+url: 'https://www.globalhunterstech.co.zw/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
