@@ -65,8 +65,8 @@ const Hero = () => {
     <p>
       I'm a Zimbabwean-based software engineer who specializes in building (and occasionally designing)
       exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-        Global Hunters Inc.
+      <a href="https://1010tech.io/" target="_blank" rel="noreferrer">
+        1010 Tech.io
       </a>{' '}
       focused on building accessible, human-centered products.
     </p>
