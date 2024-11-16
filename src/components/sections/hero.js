@@ -64,9 +64,9 @@ const Hero = () => {
   const four = (
     <p>
       I'm a Zimbabwean-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://1010tech.io/" target="_blank" rel="noreferrer">
-        1010 Tech.io
+      exceptional digital experiences. Currently, I'm an cofounder at{' '}
+      <a href="https://welodge.co.zw/" target="_blank" rel="noreferrer">
+        welodge
       </a>{' '}
       focused on building accessible, human-centered products.
     </p>
