@@ -135,10 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Decision and I enjoy creating things that live on the internet. My interest in 
-              web development started in 2016 when I began my Computer Science degree and started exploring web-dev 
-              frameworks and experimenting all sorts of things with the help of github reposand stack overflow. I 
-              consider myself a frontend developer although backend also tickles my balls!
+                  Hey there — I’m Decision
+                  Yes, that’s really my name — and no, I don’t help people make choices (unless it’s choosing the right cloud provider 😄).
+
+                  My journey into tech began back in 2016 when I started my Computer Science degree and accidentally fell into the wonderful rabbit hole of web development. What began as curious tinkering with HTML and GitHub repos (and plenty of Stack Overflow copy-pasting) quickly turned into a full-on love affair with building things that live online.
+
+                  Today, I mainly vibe with frontend development — crafting clean, functional, and user-friendly interfaces. That said, backend development also tickles my brain in the right places. I’ve since expanded into cloud engineering, where I design scalable, cloud-native solutions and occasionally yell at YAML files.
+
+                  I’m also deeply passionate about using tech for real-world impact. I dream of building systems that not only make life easier for people in Zimbabwe and across Africa but also help root out inefficiencies and bring integrity to public services — ambitious, I know, but someone’s gotta do it.
+
+                  Outside code, I’m a husband, a father, and someone who makes life decisions prayerfully and purposefully. Also, dark mode enthusiast. Always.
+
+                  Let’s build something cool — or at least mildly useful.
             </p>
 
             <p>
