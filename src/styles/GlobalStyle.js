@@ -275,6 +275,7 @@ const GlobalStyle = createGlobalStyle`
 
   p {
     margin: 0 0 15px 0;
+    text-align: justify; 
 
     &:last-child,
     &:last-of-type {

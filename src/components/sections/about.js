@@ -135,8 +135,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-                  Hey there — I’m Decision
-                  Yes, that’s really my name — and no, I don’t help people make choices (unless it’s choosing the right cloud provider 😄).
+                  Hey there — I’m Decision <br></br>
+                  Yes, that’s really my name — and no, I don’t help people make choices (unless it’s choosing the right cloud provider 😄). <br></br>
 
                   My journey into tech began back in 2016 when I started my Computer Science degree and accidentally fell into the wonderful rabbit hole of web development. What began as curious tinkering with HTML and GitHub repos (and plenty of Stack Overflow copy-pasting) quickly turned into a full-on love affair with building things that live online.
 
